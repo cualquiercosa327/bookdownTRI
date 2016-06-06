@@ -1,0 +1,15 @@
+--- 
+title: "Diseño y análisis de estudios educacionales"
+author: "Andrés Gutiérrez"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+description: "Este es el repositorio del libro *Diseño y análisis de estudios educacionales*."
+knit: "bookdown::render_book"
+#knit: "bookdown::render_pdf"
+---
