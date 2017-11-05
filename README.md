@@ -1,1 +1,3 @@
-Este es el repositorio del libro *Diseño y análisis de estudios educacionales*
+Este es el repositorio del libro *Muestreo y análisis de estudios educacionales con R*
+
+https://bookdown.org/hagutierrezro/TRI/
