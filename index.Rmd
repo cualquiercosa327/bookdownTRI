@@ -1,5 +1,5 @@
 --- 
-title: "Diseñodoo y análisis de estudios educacionales"
+title: "Diseñodddddoo y análisis de estudios educacionales"
 author: "Andrés Gutiérrez"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
